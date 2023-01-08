@@ -1,13 +1,1 @@
-{
-    "status": "true",
-    "stats": {
-        "feedCountTotal": 4092101,
-        "episodeCountTotal": 113972788,
-        "feedsWithNewEpisodes3days": 92998,
-        "feedsWithNewEpisodes10days": 204040,
-        "feedsWithNewEpisodes30days": 347036,
-        "feedsWithNewEpisodes90days": 486931,
-        "feedsWithValueBlocks": 11079
-    },
-    "description": "Found matching feeds."
-}
+The X-Auth-Key header contains an invalid API key.  Please see: https://podcastindex-org.github.io/docs-api/#overview--authentication-details
